@@ -1,0 +1,5 @@
+import random
+
+uzunluq = 10
+massiv = [random.randint(18, 26) for _ in range(uzunluq)]
+print(massiv)
